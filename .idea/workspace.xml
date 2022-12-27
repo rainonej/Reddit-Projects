@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e15ed6a4-ab12-40be-a2cb-f7898112f659" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Class Documentation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes Documentation.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subreddit Predictions 2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subreddit Prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Prediction.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Subreddit Preditions Classes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Preditions Classes.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="RMarkdown.notebook" />
         <option value="Jupyter Notebook" />
       </list>
     </option>
@@ -37,7 +43,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/raino/GitHub/Reddit-Projects/README.md"
+    "last_opened_file_path": "C:/Users/raino/GitHub/Reddit-Projects/README.md",
+    "settings.editor.selected.configurable": "Settings.Markdown"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
