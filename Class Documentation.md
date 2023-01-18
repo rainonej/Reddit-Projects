@@ -1,7 +1,6 @@
-# Reddit Projects
- A collection of projects focused on analyzing Reddit data
+# Class: Subreddit_Predictor
 
-Here is a simple flow chart:
+this is it?
 
 ```mermaid
 graph TD;
