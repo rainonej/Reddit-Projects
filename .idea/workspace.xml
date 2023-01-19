@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e15ed6a4-ab12-40be-a2cb-f7898112f659" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Classes.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Subreddit Prediction Presentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Prediction Presentation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Subreddit_Predictions_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit_Predictions_2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
