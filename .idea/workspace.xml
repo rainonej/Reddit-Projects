@@ -67,6 +67,11 @@
           <line>152</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/raino/GitHub/Reddit-Projects/Subreddit Prediction Presentation.ipynb</url>
+          <line>504</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
