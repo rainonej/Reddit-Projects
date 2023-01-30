@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e15ed6a4-ab12-40be-a2cb-f7898112f659" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/human_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Subreddit Prediction Presentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Prediction Presentation.ipynb" afterDir="false" />
     </list>
@@ -70,7 +69,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/raino/GitHub/Reddit-Projects/Subreddit Prediction Presentation.ipynb</url>
-          <line>941</line>
+          <line>1019</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
