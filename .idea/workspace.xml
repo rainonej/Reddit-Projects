@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e15ed6a4-ab12-40be-a2cb-f7898112f659" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Subreddit Predictions/Model Comparison.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/Classes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preliminary Assessment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/Preliminary Assessment.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Subreddit Prediction Presentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/Subreddit Prediction Presentation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/human.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/human.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/human_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/human_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subreddit Predictions/Classes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/Classes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subreddit Predictions/Model Comparison.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/Model Comparison.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subreddit Predictions/Preliminary Assessment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/Preliminary Assessment.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
