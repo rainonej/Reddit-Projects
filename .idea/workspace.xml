@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e15ed6a4-ab12-40be-a2cb-f7898112f659" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Preliminary Assessment.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Subreddit Prediction Presentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Prediction Presentation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subreddit Prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Prediction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +41,15 @@
     "WebServerToolWindowFactoryState": "false",
     "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "database.data.extractors.current.id": "Comma-separated (CSV)_id",
-    "last_opened_file_path": "C:/Users/raino/Downloads",
+    "last_opened_file_path": "C:/Users/raino/GitHub/Reddit-Projects",
     "settings.editor.selected.configurable": "Settings.Markdown"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\raino\GitHub\Reddit-Projects" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -69,7 +76,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/raino/GitHub/Reddit-Projects/Subreddit Prediction Presentation.ipynb</url>
-          <line>1019</line>
+          <line>1110</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
