@@ -8,18 +8,18 @@ The purpose of this project is to create a Machine Learning Model which can read
 The project will be broken up into steps which can be separated into three main sections.
 
 ### First Look
-1: Identify the Problem and Goal
-2: Aquire the Data
-3: Analyze the Data
-4: Naive Model
+1: Identify the Problem and Goal     
+2: Aquire the Data     
+3: Analyze the Data     
+4: Naive Model     
 5: Speculate on Model Improvements
 
 ### Systematic Approach
-6: Create New Models
-7: Compare and Analyze Results
+6: Create New Models     
+7: Compare and Analyze Results     
 8: Choose a "Winning" Model
 
 ### Optimization
-9: optimize the Winning Model
-10: Analyze Final Results
+9: optimize the Winning Model     
+10: Analyze Final Results     
 11: Suggest Future Improvements
