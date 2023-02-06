@@ -17,6 +17,6 @@ The project will be broken up into steps which can be separated into three main 
 10: Choose a "Winning" Model
 
 ### Optimization
-11: optimize the Winning Model     
+11: Optimize the Winning Model     
 12: Analyze Final Results     
 13: Suggest Future Improvements
