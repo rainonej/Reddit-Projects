@@ -5,7 +5,7 @@ Right now the only public project is Subreddit Predictions
 
 ## Subreddit Predictions
 The purpose of this project is to create a Machine Learning Model which can read a reddit post title and predict which subreddit it belongs to. 
-The project will be broken up into steps which can be separated into three main sections.
+The project will be broken up into steps which can be separated into three main sections, each of which gets its own Notebook.
 
 ### Preliminary Assessment
 1: Identify the Problem      
@@ -17,11 +17,11 @@ The project will be broken up into steps which can be separated into three main 
 7: Speculation on Further Improvements     
 
 ### Systematic Approach
-6: Create New Models     
-7: Compare and Analyze Results     
-8: Choose a "Winning" Model
+8: Create New Models     
+9: Compare and Analyze Results     
+10: Choose a "Winning" Model
 
 ### Optimization
-9: optimize the Winning Model     
-10: Analyze Final Results     
-11: Suggest Future Improvements
+11: optimize the Winning Model     
+12: Analyze Final Results     
+13: Suggest Future Improvements
