@@ -1,15 +1,22 @@
-# Reddit Projects
- A collection of projects focused on analyzing Reddit data
+## Subreddit Predictions
+The purpose of this project is to create a Machine Learning Model which can read a reddit post title and predict which subreddit it belongs to. 
+The project will be broken up into steps which can be separated into three main sections, each of which gets its own Notebook.
 
-Here is a simple flow chart:
+### Preliminary Assessment
+1: Identify the Problem      
+2: Aquire and Pre-Clean the Data     
+3: Inspect the Data by Hand          
+4: Initial Feature Analysis      
+5: Naive Solution      
+6: Establish Goals     
+7: Speculation on Further Improvements     
 
-```mermaid
-graph TD;
-    Obj(Subreddit_Predictor <br/> obj)-->Vect(Vectorizer <br/> obj.vect);
-    Obj-->Class(Classifier <br/> obj.classifier);
-    Raw[Data]-->|obj.add_data <br/> obj.clean_data <br/> obj.ready_data| Data[obj.X_train <br/> obj.Y_train <br/> obj.X_test <br/> obj.Y_test];
-    Obj-->Data;
-    Data --> |obj.vect.train <br/> obj.X_train| Vect;
-    Vect --> Vectorize{obj.vect.vectorize};
-    Data --> |obj.classifier.train <br/> obj.X_train <br/> obj.Y_train| Class;
-```
+### Systematic Approach
+8: Create New Models     
+9: Compare and Analyze Results     
+10: Choose a "Winning" Model
+
+### Optimization
+11: optimize the Winning Model     
+12: Analyze Final Results     
+13: Suggest Future Improvements
