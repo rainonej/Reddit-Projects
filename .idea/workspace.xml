@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e15ed6a4-ab12-40be-a2cb-f7898112f659" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Subreddit Predictions/Preliminary Assessment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/Preliminary Assessment.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subreddit Predictions/Model Comparison 2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subreddit Predictions/Classes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/Classes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subreddit Predictions/Model Comparison.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/Model Comparison.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,19 +34,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
-    &quot;database.data.extractors.current.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/raino/GitHub/Reddit-Projects&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.Markdown&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "database.data.extractors.current.id": "Comma-separated (CSV)_id",
+    "last_opened_file_path": "C:/Users/raino/GitHub/Reddit-Projects/Subreddit Predictions",
+    "settings.editor.selected.configurable": "Settings.Markdown"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Jupyter",
+      "GitIgnore"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\raino\GitHub\Reddit-Projects\Subreddit Predictions" />
       <recent name="C:\Users\raino\GitHub\Reddit-Projects" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
