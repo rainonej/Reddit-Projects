@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e15ed6a4-ab12-40be-a2cb-f7898112f659" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subreddit Predictions/Classes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/Classes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subreddit Predictions/Model Comparison 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/Model Comparison 2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Subreddit Predictions/Preliminary Assessment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Subreddit Predictions/Preliminary Assessment.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +91,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/Users/raino/GitHub/Reddit-Projects/Subreddit Predictions/Model Comparison 2.ipynb</url>
-          <line>455</line>
+          <line>584</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
